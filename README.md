@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priscilla</h1>
-<h3 align="center">An aspiring data scientist from Singapore</h3>
+<h3 align="center">An aspiring Data Scientist / Data Analyst from Singapore</h3>
 
-- 👀 I’m interested in Data Science and am preparing myself for a Data Scientist career. 
+- 👀 I’m interested in Data Science / Data Analytics and am preparing myself for a career in this area. 
 - 🌱 I’m currently learning **python, SQL and machine learning.**
 
 <h4 align="left">Connect with me:</h4>
