@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Priscilla</h1>
 <h3 align="center">An Aspiring Data Scientist / Data Analyst from Singapore</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priscng" alt="priscng" /></a> </p>
+
 - 🌱 I’m currently learning **python, SQL and machine learning.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/priscng](https://github.com/priscng)
+
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Visualiation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priscilla-ngchormui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priscilla-ngchormui/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/priscilla-ngchormui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/priscilla-ngchormui/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
