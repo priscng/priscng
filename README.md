@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Priscilla</h2>
-<h3 align="leftr">A Data Science Graduate from General Assembly Singapore. I am currently looking for opportunities to embark my career in Data Science & Data Analytics.</h3>
+A Data Science Graduate from General Assembly Singapore. I am currently looking for opportunities to embark my career in Data Science & Data Analytics.
 
 - 🌱 I am constantly honing up my skills in **python, SQL and machine learning.**
 
