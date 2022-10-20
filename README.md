@@ -5,7 +5,7 @@ A Data Science Graduate from General Assembly Singapore. I am currently looking 
 
 - 👨‍💻 All of my projects are available at GitHub. 
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Data Visualiation**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
