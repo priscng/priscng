@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Priscilla</h1>
-<h3 align="center">An Aspiring Data Scientist / Data Analyst from Singapore</h3>
+<h2 align="left">Hi 👋, I'm Priscilla</h2>
+<h3 align="leftr">A Data Science Graduate from General Assembly Singapore. I am currently looking for opportunities to embark my career in Data Science & Data Analytics.</h3>
 
-- 🌱 I’m currently learning **python, SQL and machine learning.**
+- 🌱 I am constantly honing up my skills in **python, SQL and machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/priscng](https://github.com/priscng)
+- 👨‍💻 All of my projects are available at GitHub. 
 
 - 💬 Ask me about **Python, SQL, Machine Learning, Data Visualiation**
 
